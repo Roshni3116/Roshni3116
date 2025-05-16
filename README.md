@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **Roshni3116/Roshni3116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -19,6 +19,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Java, SQL, frontend basics (HTML/CSS), or my student projects
 - 📫 How to reach me: 
 Email: singhroshni3211@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I started coding with C and now I'm falling in love with Java (and a little bit with Git too 😄).
+
